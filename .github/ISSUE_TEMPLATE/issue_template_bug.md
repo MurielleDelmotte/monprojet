@@ -1,5 +1,5 @@
 ---
-name: Standard Issue FR
+name: Bug
 about: Utilisez ce template pour creer une issue en français.
 title: "ETQ <user/dev/...>, je souhaite que ... de manière à ce que ..."
 ---
@@ -18,4 +18,3 @@ title: "ETQ <user/dev/...>, je souhaite que ... de manière à ce que ..."
 + [ ] Implémentation numéro 1
 + [ ] Implémentation numéro 2
 + [ ] Validation technique (tests, check etc.)
-
