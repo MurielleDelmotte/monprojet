@@ -1,20 +1,16 @@
 ---
-name: Standard Issue FR
-about: Utilisez ce template pour creer une issue en français.
-title: "ETQ <user/dev/...>, je souhaite que ... de manière à ce que ..."
+name: Bug report or feature request
+about: Describe a bug you've seen or make a case for a new feature
 ---
 
-<!-- Cette partie doit être conçue pour comprendre pourquoi cette demande est importante. Quel est l'objectif final ?-->
+Please briefly describe your problem and what output you expect. If you have a question, please don't use this form. Instead, ask on <https://stackoverflow.com/> or <https://community.rstudio.com/>.
 
-## Client - Validation 
+Please include a minimal reproducible example (AKA a reprex). If you've never heard of a [reprex](http://reprex.tidyverse.org/) before, start by reading <https://www.tidyverse.org/help/#reprex>.
 
-+ [ ] Première chose à faire pour valider ceci en tant qu'utilisateur/client externe
-+ [ ] Deuxième chose à faire pour valider ceci en tant qu'utilisateur / client externe
+For more advice on how to write a great issue, see <https://code-review.tidyverse.org/issues/>.
 
-<!-- Cette partie doit être conçue pour être validée par une personne non avertie, et fournie par le dev avec tous les éléments nécessaires (tous les coups sont permis : screencasts, captures d'écran, liens...).-->
+Brief description of the problem
 
-## Dev - Tech
-
-+ [ ] Implémentation numéro 1
-+ [ ] Implémentation numéro 2
-+ [ ] Validation technique (tests, check etc.)
+```r
+# insert reprex here
+```
